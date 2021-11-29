@@ -1,6 +1,6 @@
 
 ## Olá! Seja bem vindo ao meu perfil.
-- 🔭 Estou atualmente trabalhando com desenvolvimento Web e atualmente estudando desenvolvimento de Apps.
+- 🔭 Estou atualmente trabalhando com desenvolvimento Web e estudando desenvolvimento de Apps.
 - 🌱 Meu objetivo é evoluir na linguagem de programação de forma geral, me tornando um ótimo Desenvolvedor Web e mobile.
 
  <div>
