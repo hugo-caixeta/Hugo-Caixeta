@@ -1,7 +1,7 @@
 
-## Olá! Eu sou Hugo Caixeta
-- 🔭 Estou atualmente trabalhando com Front-end e aprendendo a parte do Back-end.
-- 🌱 Meu objetivo é evoluir na linguagem de programação de forma geral, me tornando um ótimo Desenvolvedor Web.
+## Olá! Seja bem vindo ao meu perfil.
+- 🔭 Estou atualmente trabalhando com desenvolvimento Web e atualmente estudando desenvolvimento de Apps.
+- 🌱 Meu objetivo é evoluir na linguagem de programação de forma geral, me tornando um ótimo Desenvolvedor Web e mobile.
 
  <div>
   <a href="https://github.com/Hugo-Caixeta/">
