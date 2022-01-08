@@ -14,6 +14,10 @@
   <img align="center" alt="Hugo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Hugo-bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Hugo-wordpress" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg">
+  <img align="center" alt="Hugo-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Hugo-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+
 </div>
   
   ##
