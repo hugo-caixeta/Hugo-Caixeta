@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left"><strong>• Analista e cientista de dados, com foco em análise, visualização e modelagem usando:</strong><br>• Data analyst and scientist, focused on analysis, visualization, and modeling using:<br><br>📊 <strong>Python</strong> (Pandas, Numpy, Matplotlib)<br>🔍 <strong>SQL</strong> (consultas otimizadas para análise)  ---  (optimized queries for analysis)<br>📈 <strong>Power BI</strong> (dashboards e relatórios interativos)  ---  (dashboards and interactive reports)</p>
+<p align="center"><strong>Cientista e Analista de Dados</strong><br>• Transformo dados em insights estratégicos para apoiar a tomada de decisão.<br><br>• I transform data into strategic insights to support decision making.</p>
 
 ###
 
@@ -25,6 +25,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
+
+###
+
+<p align="center"><strong>• Python</strong> (Pandas, Numpy, Matplotlib)<br><strong>• Power BI</strong><br><strong>• SQL</strong></p>
 
 ###
 
