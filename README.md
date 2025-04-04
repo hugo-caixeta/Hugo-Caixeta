@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">💼 About Me</p>
+<h3 align="center">💼 About Me</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="center">🛠️ Technologies</h4>
+<h3 align="center">🛠️ Technologies</h3>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<p align="center">📊 Statistics GitHub</p>
+<h3 align="center">📊 Statistics GitHub</h3>
 
 ###
 
