@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">• Analista e cientista de dados, com foco em análise, visualização e modelagem usando:<br><br>• Data analyst and scientist, focused on analysis, visualization, and modeling using:<br><br>📊 Python (Pandas, Numpy, Matplotlib)<br>🔍 SQL (consultas otimizadas para análise)  ---  (optimized queries for analysis)<br>📈 Power BI (dashboards e relatórios interativos)  ---  (dashboards and interactive reports)</p>
+<p align="center">• Analista e cientista de dados, com foco em análise, visualização e modelagem usando:<br><br>• Data analyst and scientist, focused on analysis, visualization, and modeling using:<br><br>📊 Python (Pandas, Numpy, Matplotlib)<br>🔍 SQL (consultas otimizadas para análise)  ---  (optimized queries for analysis)<br>📈 Power BI (dashboards e relatórios interativos)  ---  (dashboards and interactive reports)</p>
 
 ###
 
@@ -28,18 +28,20 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Hugo-Caixeta/Hugo-Caixeta/output/snake.svg" alt="Snake animation" />
+
+###
+
 <p align="center">📊 Statistics GitHub</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hugo-Caixeta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hugo-Caixeta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hugo-Caixeta&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hugo-Caixeta&radius=16&theme=gruvbox&area=true&order=5&hide_border=false&hide_title=false" height="275" alt="activity-graph graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Hugo-Caixeta/Hugo-Caixeta/output/snake.svg" alt="Snake animation" />
 
 ###
