@@ -28,12 +28,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Hugo-Caixeta/Hugo-Caixeta/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="center">📊 Statistics GitHub</p>
 
 ###
