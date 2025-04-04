@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">• Analista e cientista de dados, com foco em análise, visualização e modelagem usando:<br><br>• Data analyst and scientist, focused on analysis, visualization, and modeling using:<br><br>📊 Python (Pandas, Numpy, Matplotlib)<br>🔍 SQL (consultas otimizadas para análise)  ---  (optimized queries for analysis)<br>📈 Power BI (dashboards e relatórios interativos)  ---  (dashboards and interactive reports)</p>
+<p align="left"><strong>• Analista e cientista de dados, com foco em análise, visualização e modelagem usando:</strong><br>• Data analyst and scientist, focused on analysis, visualization, and modeling using:<br><br>📊 <strong>Python</strong> (Pandas, Numpy, Matplotlib)<br>🔍 <strong>SQL</strong> (consultas otimizadas para análise)  ---  (optimized queries for analysis)<br>📈 <strong>Power BI</strong> (dashboards e relatórios interativos)  ---  (dashboards and interactive reports)</p>
 
 ###
 
