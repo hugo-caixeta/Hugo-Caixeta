@@ -1,74 +1,45 @@
-## Hi there 👋
+<h1 align="center">-- Hugo Caixeta --</h1>
 
-<!--
-**hugo-caixeta/Hugo-Caixeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="center">💼 About Me</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+###
 
+<p align="left">• Analista e cientista de dados, com foco em análise, visualização e modelagem usando:<br><br>• Data analyst and scientist, focused on analysis, visualization, and modeling using:<br><br>📊 Python (Pandas, Numpy, Matplotlib)<br>🔍 SQL (consultas otimizadas para análise)  ---  (optimized queries for analysis)<br>📈 Power BI (dashboards e relatórios interativos)  ---  (dashboards and interactive reports)</p>
 
+###
 
-<h1 align="center">Olá, eu sou [Seu Nome] 👋</h1>
+<h4 align="center">🛠️ Technologies</h4>
 
-<p align="center">
-  <b>Analista e Cientista de Dados</b><br>
-  Python • SQL • Power BI • Análise & Visualização de Dados
-</p>
+###
 
----
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+</div>
 
-## 💼 Sobre mim
+###
 
-Sou analista e cientista de dados com experiência em resolver problemas através da análise, visualização e modelagem de dados. Domino ferramentas como:
+<p align="center">📊 Statistics GitHub</p>
 
-- **Python** (Pandas, Numpy, Matplotlib)
-- **SQL** (consultas otimizadas para análise)
-- **Power BI** (dashboards e relatórios interativos)
+###
 
-Gosto de transformar dados em insights claros e acionáveis, sempre com foco em tomada de decisão.
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hugo-Caixeta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hugo-Caixeta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hugo-Caixeta&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
----
+###
 
-## 🛠️ Tecnologias e Ferramentas
+<img src="https://raw.githubusercontent.com/Hugo-Caixeta/Hugo-Caixeta/output/snake.svg" alt="Snake animation" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
----
-
-## 📊 Estatísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=default&hide=stars" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=default" alt="Top Langs" />
-</p>
-
----
-
-## 🌐 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN/)
-
----
-
-<p align="center"><i>"Dados são o novo petróleo, mas sem refino, são apenas ruído."</i></p>
-
-
--->
-
-
+###
